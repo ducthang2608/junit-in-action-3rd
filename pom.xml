@@ -12,6 +12,7 @@
         <module>ch02-core</module>
         <module>ch07-stubs</module>
         <module>ch08-mocks</module>
+        <module>ch13-continuous</module>
     </modules>
     <packaging>pom</packaging>
 
